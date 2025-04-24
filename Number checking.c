@@ -3,6 +3,7 @@
 #include <stdbool.h>
 #include <ctype.h>
 
+
 bool
 isNumber(const
 char *str) {
